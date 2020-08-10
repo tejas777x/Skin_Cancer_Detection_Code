@@ -22,7 +22,7 @@ Deep learning can automate this diagnosis process,thus eliminating human error a
 
 ### For this project we used the HAM10000 ("Human Against Machine with 10000 training images") dataset
 
-### WE used the EfficientNetB3 Architecture  
+### And used the EfficientNetB3 Architecture  
 
 ## Our model was abel to produce an accuracy score over 80%
 
